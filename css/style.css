@@ -1,0 +1,19 @@
+.carousel {
+    background-color: #FCEAE8;
+}
+
+.price {
+    color: #FF136F;
+}
+
+.banner-btn a {
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(#FF5197, #FF1671);
+}
+
+.slider-img:hover {
+    transform: translate(-20px) scale(1.050);
+    transition: all 0.5s;
+}
