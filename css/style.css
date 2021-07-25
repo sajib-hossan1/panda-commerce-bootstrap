@@ -6,14 +6,49 @@
     color: #FF136F;
 }
 
-.banner-btn a {
+.buy-btn a {
     font-size: 16px;
     text-decoration: none;
     color: white;
     background: linear-gradient(#FF5197, #FF1671);
 }
 
+.submit-btn {
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(#FF5197, #FF1671);
+    border: none;
+    padding: 8px 15px;
+}
+
 .slider-img:hover {
     transform: translate(-20px) scale(1.050);
     transition: all 0.5s;
+}
+
+.catagory {
+    color: white;
+}
+
+.catagory img {
+    width: 110px;
+}
+
+.shadow-c {
+    box-shadow: 5px 8px 20px rgba(0, 0, 0, 0.178);
+}
+
+.bag-hover:hover {
+    transform: scale(1.070);
+    transition: all 0.5s;
+}
+
+.shoe-hover:hover {
+    transform: scale(1.070);
+    transition: all 0.5s;
+}
+
+.subscribe-section {
+    background-color: #FCEAE8;
 }
